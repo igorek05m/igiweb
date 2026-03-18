@@ -29,14 +29,15 @@ A modern, interactive personal portfolio website built to showcase my projects, 
    ```
 
 2. Install dependencies:
+
    ```bash
    pnpm install
    ```
 
-e. Run dev server:
+3. Run dev server:
 
 ```bash
-pnpm dev
+pnpm run dev
 ```
 
 ## Credits

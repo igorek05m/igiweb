@@ -143,6 +143,7 @@ function Card({ project }: { project: Project }) {
                     src={project.image}
                     alt={project.title}
                     fill
+                    sizes="(max-width: 768px) 80vw, (max-width: 1024px) 40vw, 32vw"
                     className="object-contain drop-shadow-2xl"
                   />
                 </div>
